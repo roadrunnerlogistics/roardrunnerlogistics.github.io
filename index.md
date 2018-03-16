@@ -42,6 +42,8 @@ Technology support on all of our prime movers, open/covered tailgate trucks and 
 
 <img src="https://scontent.fszb1-1.fna.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/131717_165544303585473_935311603_o.jpg?oh=7866bbf48920538346d277953fd1d2ad&oe=5B3AF869">
 
+<img src="https://scontent.fszb1-1.fna.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/882888_219974471475789_1538169954_o.jpg?oh=9afc7d19d4771e1b05ed564ac5df880a&oe=5B4A99F3">
+
 ### Our Mission
 
 Road Runner Logistics is in business to focus on giving our customers exceptional high quality transportation and logistics service.

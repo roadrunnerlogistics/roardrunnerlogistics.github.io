@@ -64,15 +64,17 @@ Customer satisfaction is our business. We deliver On time every time.
 
 ### Our Office Locations
 
-[Malaysia] (https://www.google.com/maps?q=No.18,+Jalan+Sri+Perkasa+1/3,+Taman+Tampoi+Utama,+81200+J.Bharu.&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjU846W3fDZAhUKkpQKHU98C5oQ_AUIESgB)
-No.18, Jalan Sri Perkasa 1/3, 
+[Malaysia] ()
+#### Address
+18, Jalan Sri Perkasa 1/3, 
 Taman Tampoi Utama, 
 81200 Johor Bharu,
 Johor Darul Takzim,
 Malaysia.
-+607 559 9744
+Tel: +607 559 9744
 
 [Singapore](https://www.google.com/maps/search/18+Boon+Lay+Way+%2305-120+Tradehub+21+SINGAPORE+609966/@1.3278038,103.7536736,17z) 
+#### Address
 18 Boon Lay Way
 #05-120 Tradehub 21
 SINGAPORE 609966

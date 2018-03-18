@@ -87,4 +87,4 @@ Tel: +607 559 9744
 #05-120 Tradehub 21
 SINGAPORE 609966 
 
-<li><a href="https://www.facebook.com/Roadrunner-Logistics-M-Sdn-Bhd-153610754778828" title="Visit us on Facebook" class="social-link--facebook icon-facebook"></a></li>
+<a href="https://www.facebook.com/Roadrunner-Logistics-M-Sdn-Bhd-153610754778828" title="Visit us on Facebook" class="social-link--facebook icon-facebook"></a>

@@ -85,6 +85,5 @@ Tel: +607 559 9744
 #### Address
 18 Boon Lay Way
 #05-120 Tradehub 21
-SINGAPORE 609966 
+SINGAPORE 609966 [Facebook](https://www.facebook.com/Roadrunner-Logistics-M-Sdn-Bhd-153610754778828)
 
-<a href="https://www.facebook.com/Roadrunner-Logistics-M-Sdn-Bhd-153610754778828" title="Visit us on Facebook" class="social-link--facebook icon-facebook"></a>
